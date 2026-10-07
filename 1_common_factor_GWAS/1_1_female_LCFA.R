@@ -3,7 +3,7 @@ library(tidyverse)
 library(GenomicSEM)
 
 options(datatable.fread.datatable = FALSE)
-setwd("/working/lab_tracyo/kelsieB/publication/obesity_ec/genomicSEM/commonfactor/female/")
+setwd("")
 
 trait.names <- c("BMI", "WHR", "BFP", "VAT", "ASAT", "GFAT")
 

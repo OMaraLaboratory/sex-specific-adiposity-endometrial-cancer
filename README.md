@@ -4,7 +4,7 @@ This repository contains analysis code associated with:
 
 **Bouttle K, Glubb DM, Thorp J, Ingold N, O'Mara TA.  
 Sex-specific dissection of adiposity genetics reveals distinct pathways to endometrial cancer risk.  
-Nature Communications (2026).**
+(2026).**
 
 Publication DOI: *to be added*
 
@@ -107,6 +107,6 @@ If you use code from this repository, please cite the associated publication:
 
 Bouttle K, Glubb DM, Thorp J, Ingold N, O'Mara TA.  
 **Sex-specific dissection of adiposity genetics reveals distinct pathways to endometrial cancer risk.**  
-*Nature Communications*. 2026.
+**. 2026.
 
 Publication DOI and Zenodo DOI will be added following publication and archival release.
